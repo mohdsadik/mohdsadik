@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sadik Shaikh</h1>
 <h3 align="center">A passionate flutter mobile application developer from India</h3>
-<img align="center" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">,
+<img align="center" height="500" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">,
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohdsadik&label=Profile%20views&color=0e75b6&style=flat" alt="mohdsadik" /> </p>
 
